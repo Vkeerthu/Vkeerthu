@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Keerthana V</h1>
+<h1 align="center">Hi 👋, ==I'm Keerthana V==</h1>
 <h3 align="center">"Unlocking Data's Secrets: A Data Scientist's Repository" at a Time: A Data Scientist's Journey"</h3>
 
 - 🌱 I’m currently learning **Data Analytics & Data science.**
