@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, ==I'm Keerthana V==</h1>
+<h1 align="center">Hi 👋, I'm Keerthana V</h1>
 <h3 align="center">"Unlocking Data's Secrets: A Data Scientist's Repository" at a Time: A Data Scientist's Journey"</h3>
 
 - 🌱 I’m currently learning **Data Analytics & Data science.**
@@ -24,3 +24,4 @@
 ![Vkeerthu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vkeerthu&theme=material-palenight&hide_border=false)
 ![Vkeerthu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vkeerthu&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)
 </h1>
+==thank==
