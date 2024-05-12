@@ -66,19 +66,12 @@ Hey there! 👋 I'm Keerthana, a curious Computer Science Engineer with a knack 
 
 ---
 
-## Internships
+## Experience
 
 1. 🧪 **National Institute of Electronics and Information Technology**
    - Data Science Intern
    - Nov 2023 - May 2024
 
-2. 🐍 **Shiash Info Solutions Private Limited**
-   - Python Developer Intern
-   - Aug 2022 - Oct 2022
-
-3. 📈 **DLK Technologies**
-   - Data Science Intern
-   - Jan 2023
 
 ---
 
@@ -103,4 +96,4 @@ Feel free to drop me a message if you're up for some magical data adventures! Le
 
 ![Vkeerthu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vkeerthu&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)
 
-my name is ==keerthana V==.
+my name is == keerthana V ==.
