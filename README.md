@@ -94,7 +94,7 @@ Hey there! 👋 I'm Keerthana, a curious Computer Science Engineer with a knack 
 
 ---
 
-Feel free to ==drop== me a message if you're up for some magical data adventures! Let's brew some data potions together! 🧙‍♀️✨
+Feel free to drop me a message if you're up for some magical data adventures! Let's brew some data potions together! 🧙‍♀️✨
 
 
 ![Vkeerthu's Stats](https://github-readme-stats.vercel.app/api?username=Vkeerthu&theme=material-palenight&show_icons=true&hide_border=false&count_private=true)
