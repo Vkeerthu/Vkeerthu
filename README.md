@@ -85,16 +85,12 @@ Hey there! 👋 I'm Keerthana, a curious Computer Science Engineer with a knack 
 ## Workshops
 
 - ☁️ **Amazon Web Services (AWS)**
-  - Saveetha Engineering College, Chennai
-  - 2022
-
+  
 - 🌐 **Internet of Things (IoT)**
-  - Velammal Engineering College, Chennai
-  - 2022
+  
 
 - 🚀 **Hands-on Training on Kubernetes**
-  - Velammal Engineering College, Chennai
-  - 2022
+  
 
 ---
 
